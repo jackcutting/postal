@@ -44,6 +44,11 @@
   margin-top:5px;
 }
 
+.largeList__link:hover .largeList__subText {
+  color:#fff;
+  opacity:0.7;
+}
+
 .largeList__rightLabel {
   float:right;
   line-height:0.8;
